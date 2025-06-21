@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Un-ignore project files
+!hw4_ismailgargouri.py
+!requirements.txt
+!README.md
+!Car Price(in).csv
+!plots/
+!.gitignore 
